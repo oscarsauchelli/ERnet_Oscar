@@ -1,0 +1,2 @@
+Namespace(batchSize=3, batchSize_test=1, cpu=False, dataset='pickledataset', fid=<_io.TextIOWrapper name='trained_models/ERNet_rcan-rg5-t/log.txt' mode='w' encoding='UTF-8'>, imageSize=512, log=False, lr=0.0001, model='rcan', multigpu=False, n_feats=48, n_resblocks=5, n_resgroups=15, narch=0, nch_in=3, nch_out=3, nepoch=30, ntest=100, ntrain=1000, out='trained_models/ERNet_rcan-rg5-t', plotinterval=1, reduction=16, root='trainingdata/testpartitioned_128', saveinterval=10, scheduler='', task='segment', test=False, testinterval=1, weights='', workers=4) 
+

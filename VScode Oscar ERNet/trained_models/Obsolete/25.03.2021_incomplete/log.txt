@@ -1,0 +1,62 @@
+Namespace(batchSize=3, batchSize_test=1, cpu=False, dataset='pickledataset', fid=<_io.TextIOWrapper name='trained_models/ERNet_rcan-rg5-t/log.txt' mode='w' encoding='UTF-8'>, imageSize=128, log=False, lr=0.0001, model='rcan', multigpu=False, n_feats=64, n_resblocks=5, n_resgroups=10, narch=0, nch_in=3, nch_out=3, nepoch=20, ntest=25, ntrain=600, out='trained_models/ERNet_rcan-rg5-t', plotinterval=1, reduction=16, root='trainingdata/testpartitioned_128', saveinterval=10, scheduler='10,0.5', test=False, testinterval=1, undomulti=False, weights='', workers=6) 
+
+
+Epoch 0 done, 0.040591
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 20.36 dB / 0.7265
+
+Epoch 1 done, 0.010067
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 21.29 dB / 0.7253
+
+Epoch 2 done, 0.009400
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 22.73 dB / 0.8113
+
+Epoch 3 done, 0.008758
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 20.31 dB / 0.7786
+
+Epoch 4 done, 0.007974
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 22.17 dB / 0.7917
+
+Epoch 5 done, 0.007132
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.03 dB / 0.8213
+
+Epoch 6 done, 0.007719
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 23.16 dB / 0.8225
+
+Epoch 7 done, 0.006577
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 23.54 dB / 0.8260
+
+Epoch 8 done, 0.006410
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.74 dB / 0.8457
+
+Epoch 9 done, 0.006456
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 23.09 dB / 0.8229
+
+Epoch 10 done, 0.005600
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.61 dB / 0.8430
+
+Epoch 11 done, 0.005622
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 25.09 dB / 0.8504
+
+Epoch 12 done, 0.005153
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.98 dB / 0.8529
+
+Epoch 13 done, 0.005308
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.71 dB / 0.8512
+
+Epoch 14 done, 0.005485
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.75 dB / 0.8526
+
+Epoch 15 done, 0.005311
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 23.47 dB / 0.8577
+
+Epoch 16 done, 0.005318
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.50 dB / 0.8454
+
+Epoch 17 done, 0.005283
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.46 dB / 0.8478
+
+Epoch 18 done, 0.005317
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 25.23 dB / 0.8568
+
+Epoch 19 done, 0.005222
+Testing of 25 samples complete. bc: 18.99 dB / 0.6523, sr: 24.95 dB / 0.8493
